@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yodusk
 - 👀 I’m interested in software development and design.
 - 💻 Favoutite langs: Java/Kotlin, Typescript
-- 🌱 Currently doing masters at MIPT
+- 🌱 Corporate finance bsc, computer science and applied math masters
 
 <!---
 yodusk/yodusk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
